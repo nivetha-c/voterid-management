@@ -1,0 +1,4 @@
+It can b used by both admin and the user.
+Eachone has different username and password.
+Admin can view, update and create the voter id details.
+But user can only view the details given that the id number is provided.
